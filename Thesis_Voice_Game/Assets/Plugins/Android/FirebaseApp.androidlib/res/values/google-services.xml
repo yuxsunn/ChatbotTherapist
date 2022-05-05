@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://chatbottherapist-game-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">954096636547</string>
+  <string name="google_storage_bucket" translatable="false">chatbottherapist-game.appspot.com</string>
+  <string name="project_id" translatable="false">chatbottherapist-game</string>
+  <string name="google_api_key" translatable="false">AIzaSyByMaJhZUj2HgK9OqmL6LT-SGx84yXaWAw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyByMaJhZUj2HgK9OqmL6LT-SGx84yXaWAw</string>
+  <string name="google_app_id" translatable="false">1:954096636547:android:0f7269cb154458e30081b6</string>
+  <string name="default_web_client_id" translatable="false">954096636547-ukdq87r3l76j5omnddcf9e86lt1gojj4.apps.googleusercontent.com</string>
+</resources>

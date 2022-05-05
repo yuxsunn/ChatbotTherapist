@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784800001793",
+    "firebase_url": "https://chatbottherapistgame-default-rtdb.firebaseio.com/",
+    "project_id": "chatbottherapistgame",
+    "storage_bucket": "chatbottherapistgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784800001793:android:79b105a1baf2c7603e7500",
+        "android_client_info": {
+          "package_name": "au.unimelb.chatbottherapist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784800001793-br1o02qvd6jsg8greod7d0vv31k40g9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtkblmBYUcssIrssmcPqcn7YIGphSfa3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784800001793-br1o02qvd6jsg8greod7d0vv31k40g9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
